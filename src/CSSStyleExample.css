@@ -8,4 +8,10 @@ global
 	font-family: Verdana;
 	font-size: 10;
 }
+
+s|Button
+{
+	color: #ff0000;
+	chrome-color:#ffff00;
+}
 	
